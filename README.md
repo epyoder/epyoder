@@ -1,0 +1,5 @@
+- Hi, my name is Elijah Yoder (@epyoder)
+- I am a PhD Student in the School of Engineering at Liberty University
+- My current research topic is the modeling of a plant-scale chemical reactor in CFD to improve it performance
+- I primarily code in python and have done some coding in C/C++
+- email me at epyoder@liberty.edu if you would like to collaborate
